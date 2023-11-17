@@ -1,0 +1,12 @@
+*{font-family: 'segoe ui', tahoma, geneva, vernada;}
+body{
+    font-size: 30px;
+    text-indent: 20px;
+}
+.myelem{
+    background-color:#f2ff03;
+    color: #ff7003;
+    border-style: solid;
+    border-radius: 2em;
+    border-color: #03ff58;
+}
